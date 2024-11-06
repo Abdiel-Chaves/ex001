@@ -9,7 +9,7 @@
     </h1>
     <h1>Olá mundo!</h1>
     <hr>
-    <p>Esse é o meu index solo, nele praticarei sozinho as aulas que eu fizer, vai dar tudo certo!</p>
+    <p>Esse é o meu index solo, para um princípio não está nada mal, mas vai dar tudo certo!</p>
     
 </body>
 </html>
